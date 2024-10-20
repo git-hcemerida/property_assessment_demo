@@ -21,6 +21,8 @@ Launch Jupyter Notebook and run the file `property_assessment.ipynb` to create t
 
 Next, to generate and export the interactive map, open and run `folium_map.ipynb`.
 
+## Credits
+- Elevation data from NSW Government Spatial Services accessed through the [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
 
 
 ## License
