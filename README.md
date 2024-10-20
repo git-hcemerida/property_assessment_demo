@@ -2,7 +2,6 @@
 This repository contains the code and files used in publishing an interactive dashboard for a client interested in identifying parts of their property where:
 
 - Slope < 15°
-- Slope ≥ 15°
 
 ## Installation
 Create an environment and run the following command:
