@@ -1,8 +1,8 @@
 # Property Assessment Demo
-This repository contains the code and files used in publishing an interactive dashboard for a client interested in identifying parts of their property where the slope is:
+This repository contains the code and files used in publishing an interactive dashboard for a client interested in identifying parts of their property where:
 
-- Below 15 degrees (Class 1), or
-- Greater than or equal to 15 degrees (Class 2)
+- Slope < 15°
+- Slope ≥ 15°
 
 ## Installation
 Create an environment and run the following command:
@@ -24,10 +24,11 @@ Launch Jupyter Notebook and run the file `property_assessment.ipynb` to create t
 Next, to generate and export the interactive map, open and run `folium_map.ipynb`.
 
 ## Website
-You can check out the website here: https://git-hcemerida.github.io/property_assessment_demo/
+You can check out the website here using any modern desktop browser: https://git-hcemerida.github.io/property_assessment_demo/
 
 ## Credits
-- Elevation data from NSW Government Spatial Services accessed through the [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
+- Elevation data from [Geoscience Australia](https://www.ga.gov.au/) accessed through [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
+- ESRI (Basemap)
 
 
 ## License
