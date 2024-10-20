@@ -16,6 +16,8 @@ or when using conda after creating and activating the environment:
 conda install --file requirements.txt
 ```
 
+Note: this was tested on MacBook Pro M2 running on macOS Sequioa 15.0.1
+
 ## Usage
 Launch Jupyter Notebook and run the file `property_assessment.ipynb` to create the necessary input files for the interactive map (`class.geojson` and `property_boundaries.geojson`).
 
