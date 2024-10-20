@@ -161,3 +161,4 @@ cython_debug/
 geojson/.DS_Store
 out/.DS_Store
 raster/.DS_Store
+.DS_Store
