@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Property Assessment (Demo)
 description: |- 
   Here's a interactive map of your property showing areas where Slope < 15°. 
-  You can use the layer controls on the upper right side of the map below to toggle the checkbox on the available layers or select a basemap.
+  You can use the layer controls on the upper right side of the map to toggle available layers or select a basemap.
 
   Warning: As of this report, field DP1213407 has limited coverage from Geoscience Australia.
