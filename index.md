@@ -1,1 +1,1 @@
-<iframe src="assessment.html" height="768px" width="1024px"></iframe>
+<iframe src="assessment.html"></iframe>
