@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Property Assessment (Demo)
+description: Here's a interactive map of your property showing areas that are (1) above or equal to 15 degrees, and (2) less than 15 degrees. You can use the layer controls on the upper right side of the map below to toggle the checkbox on the available layers or select a basemap.
