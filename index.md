@@ -6,4 +6,4 @@ Here's a interactive map of your property showing areas that are
 
 You can use the layer controls on the upper right side of the image to access. Toggle the checkbox to turn off layers or select a basemap.
 
-<iframe src="index.html" height="768px" width="90%"></iframe>
+<iframe src="assessment.html" height="768px" width="90%"></iframe>
